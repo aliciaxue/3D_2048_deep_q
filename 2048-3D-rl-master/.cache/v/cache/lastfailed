@@ -1,0 +1,5 @@
+{
+  "py_2048_rl/game/test/test_game.py": true,
+  "py_2048_rl/game/test/test_play.py": true,
+  "py_2048_rl/learning/test/test_experience_batcher.py": true
+}
